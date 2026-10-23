@@ -38,7 +38,7 @@ Prérequis : un compilateur C (GCC ou Clang).
 
 ```bash
 # Compilation
-gcc -Wall -Wextra -o awale src/awale.c
+gcc -Wall -Wextra -o awale awale.c
 
 # Lancement
 ./awale          # Linux / macOS
